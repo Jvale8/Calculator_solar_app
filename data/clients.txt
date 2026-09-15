@@ -1,0 +1,4 @@
+C001;Juana;Sanchez;CC;123456789
+C002;Carlos;Perez;CC;987654321
+C003;Maria;Gomez;CC;456789123
+C004;Juliana;Franco;CC;321654987

@@ -1,0 +1,20 @@
+Z001;Bogota;Cundinamarca;3.5
+Z002;Medellin;Antioquia;4.5
+Z003;Cali;Valle del Cauca;4.8
+Z004;Barranquilla;Atlantico;5.0
+Z005;Cartagena;Bolivar;5.2
+Z006;Bucaramanga;Santander;4.5
+Z007;Pereira;Risaralda;4.3
+Z008;Manizales;Caldas;4.2
+Z009;Armenia;Quindio;4.4
+Z010;Cucuta;Norte de Santander;4.8
+Z011;Ibague;Tolima;4.4
+Z012;Villavicencio;Meta;4.5
+Z013;Neiva;Huila;5.0
+Z014;Santa Marta;Magdalena;5.3
+Z015;Valledupar;Cesar;5.2
+Z016;Monteria;Cordoba;5.0
+Z017;Sincelejo;Sucre;5.1
+Z018;Pasto;Narino;4.5
+Z019;Tunja;Boyaca;4.0
+Z020;Popayan;Cauca;4.6
