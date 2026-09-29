@@ -1,0 +1,4 @@
+SI001;Hoymiles;HMS-2000-4T;Interconectado;Monofasico;2.0;220.0;65.0;9.09;16.0;true
+SI002;Hoymiles;HIS-3L-G3;Hibrido;Monofasico;3.0;220.0;550.0;15.0;18.0;true
+SI003;Huawei;SUN2000;Interconectado;Monofasico;5.0;220.0;600.0;22.7;25.0;true
+SI004;SMA;Sunny Tripower;Interconectado;Trifasico;10.0;220.0;1000.0;26.0;30.0;true
