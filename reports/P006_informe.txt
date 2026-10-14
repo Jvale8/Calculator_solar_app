@@ -1,0 +1,53 @@
+============================================================
+INFORME PRELIMINAR DE DIMENSIONAMIENTO SOLAR - SOLARCALC
+============================================================
+
+CLIENTE
+ID: C002
+Nombre: Carlos Perez
+Identificación: CC 987654321
+
+PROPIEDAD
+ID: P006
+Dirección: Avenida 34 #56-78
+Zona: Bucaramanga - Santander
+Horas de sol pico usadas: 4.50 h/día
+Estrato: 4
+Empresa comercializadora: ESSA (E006)
+
+CONSUMO Y COSTO ESTIMADO
+Consumo mensual: 589.00 kWh
+Contribución del 20 % aplicada: No
+Valor mensual estimado sin sistema solar: $521.265
+
+DIMENSIONAMIENTO FOTOVOLTAICO
+Cobertura objetivo: 80 % del consumo mensual
+Energía objetivo: 471.20 kWh/mes
+Panel seleccionado: Canadian Solar TOPHiKu
+Potencia por panel: 700 W
+Cantidad estimada de paneles: 7
+Potencia DC instalada: 4.90 kW
+Generación teórica por panel: 75.60 kWh/mes
+Generación estimada total: 529.20 kWh/mes
+Energía considerada para ahorro (limitada al objetivo del 80 %): 471.20 kWh/mes
+Garantía del panel indicada en catálogo: 25 años
+
+INVERSORES RECOMENDADOS
+Marca/modelo: Hoymiles HMS-2000-4T
+Tipo: Interconectado
+Fases: Monofasico
+Potencia unitaria: 2.00 kW
+Cantidad: 2
+Potencia AC total: 4.00 kW
+Tensión DC máxima: 65.00 V
+Corriente DC máxima: 16.00 A
+Monitoreo integrado: Sí
+Garantía del inversor: no especificada en el catálogo de entrada
+
+AHORRO ESTIMADO
+Ahorro mensual estimado: $417.012
+Ahorro anual estimado: $5.004.144
+Factura mensual estimada después del ahorro: $104.253
+
+Nota: estimación académica preliminar. No sustituye el diseño, estudio ni validación de un profesional.
+La generación usa un factor de rendimiento supuesto del 80 % y 30 días por mes.

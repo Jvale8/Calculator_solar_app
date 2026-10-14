@@ -33,7 +33,7 @@ public class GenerateInfoFiles {
                 createPropertiesFile(8);
 
         createConsumptionsFile(
-                6,
+                8,
                 properties,
                 companies);
 
@@ -494,7 +494,9 @@ public class GenerateInfoFiles {
             538,
             650,
             412,
-            589
+            589,
+            679,
+            639
         };
 
         if (numberOfConsumptions > monthlyConsumption.length) {
@@ -643,10 +645,10 @@ public class GenerateInfoFiles {
                 new ArrayList<Inverter>();
 
         inverters.add(new Inverter(
-                "Interconectado",
-                "Monofasico",
                 "Hoymiles",
                 "HMS-2000-4T",
+                "Interconectado",
+                "Monofasico",
                 2.0,
                 220,
                 65,
@@ -655,10 +657,10 @@ public class GenerateInfoFiles {
                 true));
 
         inverters.add(new Inverter(
-                "Hibrido",
-                "Monofasico",
                 "Hoymiles",
                 "HIS-3L-G3",
+                "Hibrido",
+                "Monofasico",
                 3.0,
                 220,
                 550,
@@ -667,10 +669,10 @@ public class GenerateInfoFiles {
                 true));
 
         inverters.add(new Inverter(
-                "Interconectado",
-                "Monofasico",
                 "Huawei",
                 "SUN2000",
+                "Interconectado",
+                "Monofasico",
                 5.0,
                 220,
                 600,
@@ -679,10 +681,10 @@ public class GenerateInfoFiles {
                 true));
 
         inverters.add(new Inverter(
-                "Interconectado",
-                "Trifasico",
                 "SMA",
                 "Sunny Tripower",
+                "Interconectado",
+                "Trifasico",
                 10.0,
                 220,
                 1000,
@@ -699,10 +701,10 @@ public class GenerateInfoFiles {
 
                 String line =
                         inverters.get(i).getInverterId() + ";"
-                        + inverters.get(i).getSystemType() + ";"
-                        + inverters.get(i).getPhaseType() + ";"
                         + inverters.get(i).getBrand() + ";"
                         + inverters.get(i).getModel() + ";"
+                        + inverters.get(i).getSystemType() + ";"
+                        + inverters.get(i).getPhaseType() + ";"
                         + inverters.get(i).getPower() + ";"
                         + inverters.get(i).getAcOperatingVoltage() + ";"
                         + inverters.get(i).getMaxDcVoltage() + ";"

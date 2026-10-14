@@ -1,0 +1,53 @@
+============================================================
+INFORME PRELIMINAR DE DIMENSIONAMIENTO SOLAR - SOLARCALC
+============================================================
+
+CLIENTE
+ID: C004
+Nombre: Juliana Franco
+Identificación: CC 321654987
+
+PROPIEDAD
+ID: P004
+Dirección: Calle 56 #78-90
+Zona: Barranquilla - Atlantico
+Horas de sol pico usadas: 5.00 h/día
+Estrato: 5
+Empresa comercializadora: Air-e (E007)
+
+CONSUMO Y COSTO ESTIMADO
+Consumo mensual: 650.00 kWh
+Contribución del 20 % aplicada: Sí
+Valor mensual estimado sin sistema solar: $834.600
+
+DIMENSIONAMIENTO FOTOVOLTAICO
+Cobertura objetivo: 80 % del consumo mensual
+Energía objetivo: 520.00 kWh/mes
+Panel seleccionado: Canadian Solar TOPHiKu
+Potencia por panel: 700 W
+Cantidad estimada de paneles: 7
+Potencia DC instalada: 4.90 kW
+Generación teórica por panel: 84.00 kWh/mes
+Generación estimada total: 588.00 kWh/mes
+Energía considerada para ahorro (limitada al objetivo del 80 %): 520.00 kWh/mes
+Garantía del panel indicada en catálogo: 25 años
+
+INVERSORES RECOMENDADOS
+Marca/modelo: Hoymiles HMS-2000-4T
+Tipo: Interconectado
+Fases: Monofasico
+Potencia unitaria: 2.00 kW
+Cantidad: 2
+Potencia AC total: 4.00 kW
+Tensión DC máxima: 65.00 V
+Corriente DC máxima: 16.00 A
+Monitoreo integrado: Sí
+Garantía del inversor: no especificada en el catálogo de entrada
+
+AHORRO ESTIMADO
+Ahorro mensual estimado: $667.680
+Ahorro anual estimado: $8.012.160
+Factura mensual estimada después del ahorro: $166.920
+
+Nota: estimación académica preliminar. No sustituye el diseño, estudio ni validación de un profesional.
+La generación usa un factor de rendimiento supuesto del 80 % y 30 días por mes.

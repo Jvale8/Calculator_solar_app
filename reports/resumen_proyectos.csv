@@ -1,0 +1,7 @@
+PropertyId;ClientId;ClientName;Zone;Stratum;MonthlyConsumption_kWh;PanelCount;PanelPower_W;InstalledPower_kW;InverterBrand;InverterModel;InverterCount;MonthlySavings_COP;AnnualSavings_COP;PanelWarrantyYears
+P005;C001;Juana Sanchez;Medellin;3;412.00;5;700;3.50;Hoymiles;HIS-3L-G3;1;214240.00;2570880.00;25
+P004;C004;Juliana Franco;Barranquilla;5;650.00;7;700;4.90;Hoymiles;HMS-2000-4T;2;667680.00;8012160.00;25
+P006;C002;Carlos Perez;Bucaramanga;4;589.00;7;700;4.90;Hoymiles;HMS-2000-4T;2;417012.00;5004144.00;25
+P001;C001;Juana Sanchez;Bogota;6;323.00;5;700;3.50;Hoymiles;HIS-3L-G3;1;303878.40;3646540.80;25
+P003;C003;Maria Gomez;Cali;2;538.00;6;700;4.20;Hoymiles;HMS-2000-4T;2;236720.00;2840640.00;25
+P002;C002;Carlos Perez;Medellin;4;467.00;5;700;3.50;Hoymiles;HIS-3L-G3;1;304484.00;3653808.00;25

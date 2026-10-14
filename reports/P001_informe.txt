@@ -1,0 +1,53 @@
+============================================================
+INFORME PRELIMINAR DE DIMENSIONAMIENTO SOLAR - SOLARCALC
+============================================================
+
+CLIENTE
+ID: C001
+Nombre: Juana Sanchez
+Identificación: CC 123456789
+
+PROPIEDAD
+ID: P001
+Dirección: Calle 123 #45-67
+Zona: Bogota - Cundinamarca
+Horas de sol pico usadas: 3.50 h/día
+Estrato: 6
+Empresa comercializadora: Enel Colombia (E002)
+
+CONSUMO Y COSTO ESTIMADO
+Consumo mensual: 323.00 kWh
+Contribución del 20 % aplicada: Sí
+Valor mensual estimado sin sistema solar: $379.848
+
+DIMENSIONAMIENTO FOTOVOLTAICO
+Cobertura objetivo: 80 % del consumo mensual
+Energía objetivo: 258.40 kWh/mes
+Panel seleccionado: Canadian Solar TOPHiKu
+Potencia por panel: 700 W
+Cantidad estimada de paneles: 5
+Potencia DC instalada: 3.50 kW
+Generación teórica por panel: 58.80 kWh/mes
+Generación estimada total: 294.00 kWh/mes
+Energía considerada para ahorro (limitada al objetivo del 80 %): 258.40 kWh/mes
+Garantía del panel indicada en catálogo: 25 años
+
+INVERSORES RECOMENDADOS
+Marca/modelo: Hoymiles HIS-3L-G3
+Tipo: Hibrido
+Fases: Monofasico
+Potencia unitaria: 3.00 kW
+Cantidad: 1
+Potencia AC total: 3.00 kW
+Tensión DC máxima: 550.00 V
+Corriente DC máxima: 18.00 A
+Monitoreo integrado: Sí
+Garantía del inversor: no especificada en el catálogo de entrada
+
+AHORRO ESTIMADO
+Ahorro mensual estimado: $303.878
+Ahorro anual estimado: $3.646.541
+Factura mensual estimada después del ahorro: $75.970
+
+Nota: estimación académica preliminar. No sustituye el diseño, estudio ni validación de un profesional.
+La generación usa un factor de rendimiento supuesto del 80 % y 30 días por mes.
